@@ -3,21 +3,21 @@
     {
       "id": 1,
       "username": "Juanes",
-      "state":true,
-        "deck":[1,2,3,4,5]
+      "state": true,
+      "deck": [1, 2, 3, 4, 5]
     },
     {
       "id": 2,
       "username": "Andres",
-      "state":true,
-        "deck":[6,7,8,9,10]
+      "state": true,
+      "deck": [6, 7, 8, 9, 10]
     },
     {
       "id": 3,
       "username": "Isabella",
-      "state":true,
-        "deck":[11,12,13,14,15]
+      "state": true,
+      "deck": [11, 12, 13, 14, 15]
     }
   ],
-  "worlds":[1,2,3,4,5,6,7,8]
+  "worlds": [1, 2, 3, 4, 5, 6, 7, 8]
 }
